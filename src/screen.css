@@ -1,6 +1,16 @@
 /* Our CSS file. */
-
-
 .container, .content {
-width: 100%;
+    width: 100%;
+}
+.content{
+    display: inline-block;
+}
+.section-image{
+    width: 49%;
+}
+.align-top{
+    vertical-align: top;
+}
+.align-vertical-center{
+    vertical-align: middle;
 }
