@@ -1,0 +1,26 @@
+/* Our CSS file. */
+.container{
+    width: 100%;
+}
+.top .bottom{
+    width: 100%;
+    display: inline-block;
+}
+.top .list1{
+    width: 49%;
+    vertical-align: top;
+    display: inline-block;
+}
+.top .image1{
+    width: 49%;
+    display: inline-block;
+}
+.bottom .image2{
+    width: 49%;
+    display: inline-block;
+}
+.bottom .text1{
+    vertical-align: middle;
+    display: inline-block;
+    padding-bottom: 250px;
+}
